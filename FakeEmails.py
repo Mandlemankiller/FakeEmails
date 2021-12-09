@@ -49,7 +49,7 @@ sender = input(colors.LightBlue + "Real email address: ") #tva realna email adre
 password = getpass.getpass("Real email password (invisible): ") #zepta se na heslo v terminalu, zataguj, pokud chces pouzivat pevne heslo
 
 addressee = input("Real addressee: ") #na jakou adresu to posilas
-#addressee = "adam.svoboda@student.gymspit.cz"
+#addressee = "tvojemama@example.com"
 
 print(colors.END) #odbarveni
 
